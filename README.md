@@ -18,6 +18,10 @@ Run tests by running:
 
     $ ruby app_spec.rb
 
+Two sets of tests should run (3 total tests)
+
+Also run rubocop please
+
 ## Collaborators
 Renaud
 
