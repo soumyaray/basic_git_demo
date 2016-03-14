@@ -18,6 +18,8 @@ Run tests by running:
 
     $ ruby app_spec.rb
 
+Two sets of tests should run (3 total tests)
+
 ## Collaborators
 Renaud
 
