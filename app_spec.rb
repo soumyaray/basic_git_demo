@@ -1,4 +1,6 @@
 require 'minitest/autorun'
 
-describe ''
+describe '' do
+  it 'should use my name' do
+  end
 end
