@@ -2,6 +2,10 @@
 
 Demonstrating the basics of Git
 
+## Description
+
+Gets user name and id and greets them with those
+
 ## Running
 
 Run the application with:
