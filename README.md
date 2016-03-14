@@ -2,6 +2,10 @@
 
 Demonstrating the basics of Git: Shows input and output of Ruby
 
+## Description
+
+Gets user name and id and greets them with those
+
 ## Running
 
 Run the application with:
@@ -15,9 +19,7 @@ Run tests by running:
     $ ruby app_spec.rb
 
 ## Collaborators
-
 Renaud
 
-## Main Author
-
+## Main Authors
 Soumya Ray

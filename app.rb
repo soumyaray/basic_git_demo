@@ -1,3 +1,6 @@
 
+print "Enter name: "
 name = gets
-puts "hello #{name}"
+print "Enter id: "
+id = gets
+puts "hello #{id} : #{name}"
