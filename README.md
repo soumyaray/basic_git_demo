@@ -1,6 +1,6 @@
 # Git Demonstration
 
-Demonstrating the basics of Git
+Demonstrating the basics of Git: Shows input and output of Ruby
 
 ## Running
 
@@ -13,3 +13,11 @@ Run the application with:
 Run tests by running:
 
     $ ruby app_spec.rb
+
+## Collaborators
+
+Renaud
+
+## Main Author
+
+Soumya Ray
