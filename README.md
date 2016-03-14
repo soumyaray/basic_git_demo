@@ -17,3 +17,7 @@ Run the application with:
 Run tests by running:
 
     $ ruby app_spec.rb
+
+## Authors
+
+Soumya Ray
